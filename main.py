@@ -1,3 +1,2 @@
 print("Hi Github")
-print("2")
-
+# removed 2nt print
